@@ -1,0 +1,16 @@
+id: q-005
+question: Varkens beschikken waarschijnlijk over een 'theory of mind'. Wat houdt dat in?
+image: mudbath.jpg
+answers:
+  - Ze denken na over de werking van hun eigen hersenen
+  - Ze kunnen theoretische problemen oplossen
+  - Ze begrijpen wat er omgaat in de gedachten van andere varkens
+correct: 2
+difficulty: hard
+points: 2
+type: image
+explanation:
+  text: |
+    'Theory of mind' betekent dat een dier rekening kan houden met wat een ander dier weet of kan zien.
+    In een experiment (Universiteit van Bristol) leek een varken te begrijpen wat een ander varken had gezien
+    en gebruikte het die informatie om zelf bij het voer te komen.

@@ -1,0 +1,13 @@
+id: q-008
+question: Which bounty hunter delivers Han Solo frozen in carbonite to Jabba the Hutt?
+answers:
+  - Boba Fett
+  - Jango Fett
+  - Bossk
+  - IG-88
+correct: 0
+difficulty: hard
+points: 2
+type: multiple-choice
+explanation:
+  text: Boba Fett captured Han Solo on Cloud City and delivered him to Jabba the Hutt on Tatooine, collecting the bounty.

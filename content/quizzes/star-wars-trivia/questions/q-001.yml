@@ -1,0 +1,13 @@
+id: q-001
+question: What is the name of Han Solo's ship?
+answers:
+  - Millennium Falcon
+  - Star Destroyer
+  - X-wing
+  - Slave I
+correct: 0
+difficulty: easy
+points: 1
+type: multiple-choice
+explanation:
+  text: The Millennium Falcon is Han Solo's iconic YT-1300 light freighter, which he won from Lando Calrissian in a game of sabacc.

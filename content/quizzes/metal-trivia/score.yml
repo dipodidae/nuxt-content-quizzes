@@ -1,0 +1,20 @@
+ranges:
+  - min: 0
+    max: 2
+    title: Tourist
+    text: You might enjoy metal, but you're still on the surface.
+
+  - min: 3
+    max: 4
+    title: Headbanger
+    text: Solid knowledge. Respectable taste.
+
+  - min: 5
+    max: 6
+    title: Cult Member
+    text: You know your stuff.
+
+  - min: 7
+    max: 10
+    title: Trve Kvlt
+    text: You are the archive.

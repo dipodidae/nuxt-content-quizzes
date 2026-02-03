@@ -1,0 +1,13 @@
+id: q-007
+question: According to the Sith "Rule of Two", how many Sith Lords exist at a time?
+answers:
+  - One
+  - Two
+  - Three
+  - Many, with no limit
+correct: 1
+difficulty: medium
+points: 1
+type: multiple-choice
+explanation:
+  text: The Rule of Two, established by Darth Bane, dictates that only two Sith exist at any time—a master and an apprentice—to prevent infighting.

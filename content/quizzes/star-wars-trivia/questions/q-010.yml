@@ -1,0 +1,13 @@
+id: q-010
+question: What is the number of the order that commands the clones to turn on the Jedi?
+answers:
+  - Order 13
+  - Order 51
+  - Order 66
+  - Order 99
+correct: 2
+difficulty: hard
+points: 2
+type: multiple-choice
+explanation:
+  text: Order 66 was a secret protocol that branded the Jedi as traitors to the Republic, triggering the clone troopers to execute them.

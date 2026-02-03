@@ -1,0 +1,13 @@
+id: q-003
+question: What color is Yoda's lightsaber in the prequel trilogy?
+answers:
+  - Blue
+  - Green
+  - Purple
+  - Red
+correct: 1
+difficulty: easy
+points: 1
+type: multiple-choice
+explanation:
+  text: Yoda wields a green-bladed lightsaber, matching his status as a Jedi Master and reflecting his deep connection to the Living Force.

@@ -1,0 +1,13 @@
+id: q-001
+question: Which band released the album "Filosofem"?
+answers:
+  - Mayhem
+  - Burzum
+  - Darkthrone
+  - Emperor
+correct: 1
+difficulty: medium
+points: 1
+type: multiple-choice
+explanation:
+  text: Burzum released Filosofem in 1996, one of the most influential albums in the atmospheric black metal genre.

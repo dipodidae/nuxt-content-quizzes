@@ -1,0 +1,16 @@
+id: q-001
+question: Waarom neemt dit varken een modderbad?
+image: mudbath.jpg
+answers:
+  - Varkens houden van lekker vies doen
+  - Omdat het er leuk uitziet
+  - Om lekker af te koelen
+correct: 2
+difficulty: medium
+points: 1
+type: image
+explanation:
+  text: |
+    Varkens nemen modderbaden om af te koelen, omdat ze nauwelijks kunnen zweten.
+    De modderlaag helpt daarnaast tegen insecten en parasieten en kan de huid beschermen.
+    Als varkens hun huid willen schoonmaken, schuren ze vaak langs bomen of muren.

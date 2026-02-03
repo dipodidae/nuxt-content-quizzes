@@ -1,0 +1,13 @@
+id: q-002
+question: Who is the father of Luke Skywalker?
+answers:
+  - Obi-Wan Kenobi
+  - Emperor Palpatine
+  - Darth Vader
+  - Mace Windu
+correct: 2
+difficulty: easy
+points: 1
+type: multiple-choice
+explanation:
+  text: Darth Vader, formerly known as Anakin Skywalker, is Luke's father. This revelation occurs in The Empire Strikes Back.

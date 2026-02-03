@@ -1,0 +1,13 @@
+id: q-006
+question: Who trained Obi-Wan Kenobi as a Padawan?
+answers:
+  - Yoda
+  - Qui-Gon Jinn
+  - Count Dooku
+  - Plo Koon
+correct: 1
+difficulty: medium
+points: 1
+type: multiple-choice
+explanation:
+  text: Qui-Gon Jinn was Obi-Wan Kenobi's Jedi Master, training him until his death at the hands of Darth Maul in The Phantom Menace.

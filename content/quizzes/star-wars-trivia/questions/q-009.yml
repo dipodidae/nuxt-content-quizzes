@@ -1,0 +1,13 @@
+id: q-009
+question: On which desert planet does Anakin Skywalker grow up?
+answers:
+  - Tatooine
+  - Geonosis
+  - Mustafar
+  - Jedha
+correct: 0
+difficulty: medium
+points: 1
+type: multiple-choice
+explanation:
+  text: Anakin Skywalker grew up as a slave on Tatooine before being discovered by Qui-Gon Jinn and trained as a Jedi.

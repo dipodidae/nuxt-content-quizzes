@@ -1,0 +1,13 @@
+id: q-004
+question: Which planet is destroyed by the first Death Star?
+answers:
+  - Hoth
+  - Naboo
+  - Alderaan
+  - Jakku
+correct: 2
+difficulty: medium
+points: 1
+type: multiple-choice
+explanation:
+  text: Alderaan, Princess Leia's home world, was destroyed by the Death Star in A New Hope to demonstrate the Empire's power.

@@ -1,0 +1,16 @@
+id: q-004
+question: Hoe ver kan een moedervarken rondtrekken voor een geschikte plek voor een nest?
+image: mudbath.jpg
+answers:
+  - Een kilometer
+  - Tien kilometer
+  - Vijftig kilometer
+correct: 1
+difficulty: medium
+points: 1
+type: image
+explanation:
+  text: |
+    Zeugen zijn zorgzame moeders. In de natuur zoekt een zeug vóór de geboorte een geschikte plek
+    en bouwt ze een nest om haar biggen te beschermen. Daarbij spelen de locatie en de kwaliteit
+    van het nestmateriaal een belangrijke rol.

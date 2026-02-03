@@ -1,0 +1,20 @@
+ranges:
+  - min: 0
+    max: 3
+    title: Youngling
+    text: You know a few stories, but training has just begun.
+
+  - min: 4
+    max: 6
+    title: Padawan
+    text: Strong potential. Keep studying the holocrons.
+
+  - min: 7
+    max: 8
+    title: Jedi Knight
+    text: Impressive. The Force is clearly with you.
+
+  - min: 9
+    max: 10
+    title: Jedi Master
+    text: Your knowledge rivals the archives of the Jedi Temple.

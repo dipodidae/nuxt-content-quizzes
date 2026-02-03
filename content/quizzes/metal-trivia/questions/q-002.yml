@@ -1,0 +1,13 @@
+id: q-002
+question: In which country did black metal originate?
+answers:
+  - Sweden
+  - Germany
+  - Norway
+  - Finland
+correct: 2
+difficulty: easy
+points: 1
+type: multiple-choice
+explanation:
+  text: Black metal originated in Norway during the early 1990s, with bands like Mayhem, Burzum, and Darkthrone pioneering the genre.

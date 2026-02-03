@@ -1,0 +1,15 @@
+ranges:
+  - min: 0
+    max: 2
+    title: Beginner
+    text: Je hebt nog veel te leren over varkens!
+
+  - min: 3
+    max: 4
+    title: Kenner
+    text: Je weet al behoorlijk wat over varkens.
+
+  - min: 5
+    max: 6
+    title: Varkensexpert
+    text: Indrukwekkend! Jij bent een echte varkenskenner.

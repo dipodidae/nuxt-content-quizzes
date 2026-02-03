@@ -1,0 +1,13 @@
+id: q-005
+question: What species is Chewbacca?
+answers:
+  - Twi'lek
+  - Wookiee
+  - Rodian
+  - Bothan
+correct: 1
+difficulty: medium
+points: 1
+type: multiple-choice
+explanation:
+  text: Chewbacca is a Wookiee from the planet Kashyyyk, known for their strength, loyalty, and distinctive vocalizations.
