@@ -1,0 +1,128 @@
+{
+  "cSpell.words": [
+    "antfu",
+    "demi",
+    "iconify",
+    "nuxt",
+    "Ongehoord",
+    "pinia",
+    "pnpm",
+    "unplugin",
+    "Vite",
+    "vitejs",
+    "vitest",
+    "vue",
+    "vueuse",
+    "onderzoek",
+    "bron",
+    "bronnen"
+  ],
+  // Auto fix
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never"
+  },
+  "editor.formatOnSave": false,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  // Silent the stylistic rules in you IDE, but still auto fix them
+  "eslint.rules.customizations": [
+    {
+      "rule": "style/*",
+      "severity": "off"
+    },
+    {
+      "rule": "format/*",
+      "severity": "off"
+    },
+    {
+      "rule": "*-indent",
+      "severity": "off"
+    },
+    {
+      "rule": "*-spacing",
+      "severity": "off"
+    },
+    {
+      "rule": "*-spaces",
+      "severity": "off"
+    },
+    {
+      "rule": "*-order",
+      "severity": "off"
+    },
+    {
+      "rule": "*-dangle",
+      "severity": "off"
+    },
+    {
+      "rule": "*-newline",
+      "severity": "off"
+    },
+    {
+      "rule": "*quotes",
+      "severity": "off"
+    },
+    {
+      "rule": "*semi",
+      "severity": "off"
+    }
+  ],
+
+  // The following is optional.
+  // It's better to put under project setting `.vscode/settings.json`
+  // to avoid conflicts with working with different eslint configs
+  // that does not support all formats.
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "vue",
+    "html",
+    "markdown",
+    "json",
+    "jsonc",
+    "yaml"
+  ],
+
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+
+  // Disable the default formatter
+  "prettier.enable": false,
+
+  // i18n Ally Configuration
+  "i18n-ally.localesPaths": [
+    "i18n/locales"
+  ],
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.sortKeys": true,
+  "i18n-ally.namespace": false,
+  "i18n-ally.pathMatcher": "{locale}.{ext}",
+  "i18n-ally.enabledParsers": [
+    "json"
+  ],
+  "i18n-ally.sourceLanguage": "nl",
+  "i18n-ally.displayLanguage": "nl",
+  "i18n-ally.enabledFrameworks": [
+    "vue",
+    "vue-i18n"
+  ],
+  "i18n-ally.extract.autoDetect": true,
+  "i18n-ally.extract.keyPrefix": "",
+  "i18n-ally.extract.targetPickingStrategy": "most-similar",
+  "i18n-ally.review.enabled": true,
+  "i18n-ally.review.gutters": true,
+  "i18n-ally.refactor.templates": [
+    {
+      "templates": [
+        "$t('{key}')",
+        "{{ $t('{key}') }}",
+        "t('{key}')"
+      ]
+    }
+  ]
+}
