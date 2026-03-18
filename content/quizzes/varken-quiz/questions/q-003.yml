@@ -1,6 +1,6 @@
 id: q-003
 question: Varkens kunnen hun naam onthouden. Binnen welke periode reageren ze vaak al op hun naam?
-image: mudbath.jpg
+image: /images/varken-quiz/q003-piglets.jpg
 answers:
   - Binnen de eerste week na de geboorte
   - Binnen tien dagen na de geboorte
@@ -10,6 +10,7 @@ difficulty: medium
 points: 1
 type: image
 explanation:
+  video: https://www.youtube.com/watch?v=l49oyaB-KRI
   text: |
     Varkens hebben een goed geheugen. Ze kunnen andere varkens herkennen en onthouden.
     Ook hebben ze vaak een sterk richtingsgevoel en kunnen ze hun weg vinden over grotere afstanden.

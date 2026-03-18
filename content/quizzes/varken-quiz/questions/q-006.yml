@@ -1,6 +1,6 @@
 id: q-006
 question: Hoe begroeten varkens elkaar?
-image: mudbath.jpg
+image: /images/varken-quiz/q006-pigs-social.jpg
 answers:
   - Ze klikken met hun hoeven
   - Ze wrijven met hun neuzen
@@ -10,6 +10,7 @@ difficulty: easy
 points: 1
 type: image
 explanation:
+  video: https://www.youtube.com/shorts/yO57mp-g4gs
   text: |
     Varkens zijn sociale dieren. Ze tonen vaak affectie door elkaar te verzorgen en contact te maken met de snuit.
     In groepen letten ze op elkaars gedrag en positie, zodat duidelijk wordt wie dominant is.

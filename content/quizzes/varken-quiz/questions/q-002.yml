@@ -1,6 +1,6 @@
 id: q-002
 question: Varkens kunnen somber en teruggetrokken gedrag vertonen. Welke klacht wordt hierbij soms genoemd?
-image: mudbath.jpg
+image: /images/varken-quiz/q002-gestation-crate.jpg
 answers:
   - Schizofrenie
   - Depressie
@@ -10,6 +10,7 @@ difficulty: hard
 points: 2
 type: image
 explanation:
+  video: https://www.youtube.com/watch?v=8-nfoj8hVWU
   text: |
     Net als mensen hebben varkens emoties en een eigen karakter.
     Het ene dier is veerkrachtig, terwijl het andere gevoeliger kan zijn en somber gedrag kan ontwikkelen.
